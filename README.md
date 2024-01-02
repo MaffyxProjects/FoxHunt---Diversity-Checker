@@ -31,3 +31,6 @@ This Chrome extension automates the process of evaluating LinkedIn recruiter sea
 
 Make sure to set your API keys for Genderize.io and Nationalize.io in the extension code.
 
+## Disclaimer
+
+This extension is intended for personal and educational use only. Use responsibly and in accordance with the terms of service of the websites and services accessed.
